@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+*.log
+random_forest_tuned.joblib
