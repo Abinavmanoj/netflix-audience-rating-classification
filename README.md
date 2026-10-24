@@ -1,7 +1,7 @@
 # Netflix Audience Rating Classification
 
 A machine learning project that predicts Netflix content-rating categories using metadata such as content type, release year, duration, country, and genres.
-
+https://netflix-audience-rating-classification-dxdndmumg8ylp8wee8cfga.streamlit.app/
 ## Project Overview
 
 This project explores Netflix metadata and trains classification models to predict the `rating` category.
