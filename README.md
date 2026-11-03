@@ -65,3 +65,5 @@ streamlit run app.py
 ## Project Status
 
 The classification models and Streamlit prediction demo have been developed. Deployment and final evaluation are in progress.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1da42efa-4e42-4d70-9873-980d8e113329" />
+
